@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/nathan-millot-540b33353/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan millot" height="30" width="40" /></a>
 <a href="https://instagram.com/nathan.jokso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathan.jokso" height="30" width="40" /></a>
-<a href="https://instagram.com/nathan.jokso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathan.jokso" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
